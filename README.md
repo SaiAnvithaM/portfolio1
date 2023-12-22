@@ -740,7 +740,12 @@ padding:10px;
                         <a href="https://leetcode.com/Anvitha17/">
                             <i class="fa-solid fa-l"></i>
                         </a>
-                    </li>
+                    </li> 
+			<li>
+                        <a href="https://github.com/SaiAnvithaM">
+			<i class="fa-brands fa-github"></i>
+				 </a>
+                    </li> 
                 </ul>
             </div>
         </div>
@@ -940,6 +945,11 @@ padding:10px;
                     <i class="fa-solid fa-l"></i>
                 </a>
             </li>
+	    <li>
+                 <a href="https://github.com/SaiAnvithaM">
+		<i class="fa-brands fa-github"></i>
+		 </a>
+	    </li> 
         </ul>
     </div>
         <div style="color:lightyellow;font-size:20px;text-align: right; margin:30px 0px 20px 30px">
